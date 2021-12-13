@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "raw_gemstones:raw_emerald"
+    }
+  },
+  "result": {
+    "item": "raw_gemstones:raw_emerald_block",
+    "count": 1
+  }
+}

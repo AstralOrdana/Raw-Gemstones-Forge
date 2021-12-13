@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "raw_gemstones:raw_diamond"
+  },
+  "result": "minecraft:diamond",
+  "count": 1
+}

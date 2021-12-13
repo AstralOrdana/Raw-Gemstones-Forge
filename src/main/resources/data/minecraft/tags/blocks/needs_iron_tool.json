@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "raw_gemstones:raw_diamond_block",
+    "raw_gemstones:raw_emerald_block"
+  ]
+}
